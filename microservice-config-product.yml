@@ -71,4 +71,4 @@ eureka:
       preferIpAddress: true                                 # 访问路径可以显示ip地址
 
 emp:
-  name: zhangsan
+  name: lisi
